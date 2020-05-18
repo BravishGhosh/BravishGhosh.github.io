@@ -9,7 +9,7 @@
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Fond of creation and innovation in any domain, let it be science or technology. Passionate about research and experimentation.
 
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Professional achievements and resume; <a href="link">resume</a>
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Otaku and books geek. Blogger at Science Steins and hackernoon. 
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Anime and books geek. Blogger at Science Steins and hackernoon. 
 
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Coding experience and few projects; <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Social medias: <br> <a href="link1">linkedin</a> <br> <a href="link2">twitter</a>  <br> <a href="link3">hackernoon</a>
