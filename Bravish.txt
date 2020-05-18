@@ -12,8 +12,8 @@
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Anime and books geek. Blogger at Science Steins and hackernoon. 
 
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Coding experience and few projects; <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Social medias: <br> <#b href="link1">linkedin</#b> <br> <#b href="link2">twitter</#b>  <br> <#b href="link3">hackernoon</#b>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Social medias: <br> <b href="link1">linkedin</b> <br> <b href="link2">twitter</b>  <br> <b href="link3">hackernoon</b>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Feel free to send an email at <!-- longlonglongcomment --><#b href="Bravish.Ghosh@outlook.com">Email</#b>.
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Feel free to send an email at <!-- longlonglongcomment --><b href="Bravish.Ghosh@outlook.com">Email</b>.
 
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> "<span id="k">Thank@You for visiting</span>". <!-- sjkfhskjf --></p>
