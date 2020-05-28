@@ -2,16 +2,16 @@
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> pwd <!-- kjsdfhkjdhsfkjdshfkj -->Bravish.txt<br/><br/>
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Hello and welcome! "<span id="k">echo Linux</span>". <!-- sjkfhskjf -->
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> This is a portflio website in the skin of a terminal. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->"<span id="k">%Bravish%Ghosh%</span>". <!-- sjkfhskjf -->
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> This is a minimalistic portflio in the skin of a terminal. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->"<span id="k">%BravishGhosh%</span>". <!-- sjkfhskjf -->
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Computer Science Engineering undergraduate student.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Education from Institute of technical Education and Research, SOA university, located at Bhubaneshwar. 
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Education from Institute of Technical Education and Research, SOA university, Bhubaneshwar. 
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Fond of creation and innovation in any domain, let it be science or technology. Passionate about research and experimentation.
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Parent Tree website; <a href="https://loopglitch.tech">haxMyWebby</a>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Professional achievements and resume; <a href="link">resume</a>
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Anime and books geek. Blogger at Science Steins and hackernoon. 
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Professional achievements and resume; <a href="https://github.com/LoopGlitch26/BravishGhosh.github.io#bravish-ghosh"> Resume</a>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Blogger at Science Steins and hackernoon; <a href="https://sciencesteins2020.wixsite.com/master"> Science Steins</a>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Coding experience and few projects; <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Coding experience and few projects; <a href="https://github.com/LoopGlitch26"> GitHub</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Social medias: <br> <span id="b"><a href="link1">linkedin</a></span> <br> <span id="b"><a href="link2">twitter</a></span> <br> <span id="b"><a href="link3">hackernoon</a></span>
 
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Feel free to send an email at <!-- longlonglongcomment --><span id="b"><a href="Bravish.Ghosh@outlook.com">Email</a></span>
