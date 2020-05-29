@@ -2,18 +2,18 @@
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> pwd <!-- kjsdfhkjdhsfkjdshfkj -->Bravish.txt<br/><br/>
 <span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Hello and welcome! "<span id="k">echo Linux</span>". <!-- sjkfhskjf -->
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> This is a minimalistic portflio in the skin of a terminal. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->"<span id="k">%BravishGhosh%</span>". <!-- sjkfhskjf -->
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Computer Science Engineering undergraduate student.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Education from Institute of Technical Education and Research, SOA university, Bhubaneshwar. 
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> my minimalistic portflio in the skin of a terminal. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->"<span id="k">%BravishGhosh%</span>". <!-- sjkfhskjf -->
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> computer science engineering undergraduate student.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> education from institute of technical education and research, soa university, bhubaneshwar. 
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Parent Tree website; <a href="https://loopglitch.tech">haxMyWebby</a>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> parent tree website; <a href="https://bravishghosh.netlify.app">haxMyWebby</a>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Professional achievements and resume; <a href="https://github.com/LoopGlitch26/BravishGhosh.github.io#bravish-ghosh"> Resume</a>
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Blogger at Science Steins and hackernoon; <a href="https://sciencesteins2020.wixsite.com/master"> Science Steins</a>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> professional achievements and resume; <a href="https://github.com/LoopGlitch26/BravishGhosh.github.io#bravish-ghosh"> resume</a>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> blogger at science steins and hackernoon; <a href="https://sciencesteins2020.wixsite.com/master"> science steins</a>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Coding experience and few projects; <a href="https://github.com/LoopGlitch26"> GitHub</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Social medias: <br> <span id="b"><a href="link1">linkedin</a></span> <br> <span id="b"><a href="link2">twitter</a></span> <br> <span id="b"><a href="link3">hackernoon</a></span>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> coding experience and few projects; <a href="https://github.com/LoopGlitch26"> gitHub</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> social medias: <br> <span id="b"><a href="link1">linkedin</a></span> <br> <span id="b"><a href="link2">twitter</a></span> <br> <span id="b"><a href="link3">hackernoon</a></span>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> Feel free to send an email at <!-- longlonglongcomment --><span id="b"><a href="Bravish.Ghosh@outlook.com">Email</a></span>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> feel free to send an email at <!-- longlonglongcomment --><span id="b"><a href="bravish.ghosh@outlook.com">my_email</a></span>
 
-<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> "<span id="k">Thank@You for visiting</span>". <!-- sjkfhskjf --></p>
+<span id="a">my@Linuxbox</span>:<span id="b">~</span><span id="c">$</span> "<span id="k">thank@you for visiting</span>". <!-- sjkfhskjf --></p>
